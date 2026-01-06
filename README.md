@@ -8,3 +8,6 @@ Open Postman application and insert the link ```http://localhost:4000/api/todos`
 - POST to add a data.
 - PATCH to change the data status.
 - DELETE to delete a data.
+
+# Demo Video
+Video demo link: [https://drive.google.com/drive/my-drive?hl=id](https://drive.google.com/file/d/1ogVxgxRdq76E_iJWenzO0q0fWFSekOiH/view?usp=sharing)
